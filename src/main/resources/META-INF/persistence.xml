@@ -11,7 +11,7 @@
 			<property name="javax.persistence.jdbc.driver"
 				value="com.mysql.cj.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:mysql://database-1.ctaswa0aidvo.ap-south-1.rds.amazonaws.com?createDatabaseIfNotExist=true" />
+				value="jdbc:mysql://database-1.c5c8iso6iegz.ap-south-1.rds.amazonaws.com?createDatabaseIfNotExist=true" />
 			<property name="javax.persistence.jdbc.user" value="admin" />
 			<property name="javax.persistence.jdbc.password"
 				value="Rootadmin" />
